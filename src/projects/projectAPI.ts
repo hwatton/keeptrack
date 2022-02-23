@@ -69,6 +69,11 @@ const projectAPI = {
           );
         });
     },
+    find(id: number) {
+      return fetch(`${url}/${id}`)
+      .then(checkStatus)
+      .then(parseJSON);
+    },
 
     put(project: Project) {
       return fetch(`${url}/${project.id}`, {
