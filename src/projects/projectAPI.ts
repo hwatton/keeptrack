@@ -48,18 +48,18 @@ if (response.ok) {
 function parseJSON(response: Response) {
     return response.json();
   }
-
+/*
 function delay(ms: number) {
   return function (x: any): Promise<any> {
     return new Promise((resolve) => setTimeout(() => resolve(x), ms));
   };
 }
+*/
 
 const projectAPI = {
 
     get(page = 1, limit = 20) {
       return fetch(`${url}?_page=${page}&_limit=${limit}&_sort=name`)
-        .then(delay(600)) //it did say to delete, but leaving for fun
         .then(checkStatus)
         .then(parseJSON)
         .catch((error: TypeError) => {

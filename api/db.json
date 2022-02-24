@@ -532,12 +532,12 @@
     },
     {
       "id": 54,
-      "name": "Anderson LLC",
-      "description": "Diverse incremental algorithm. Expedita laudantium sit quisquam sit nobis eum nam ea natus.",
+      "name": "boons bad house",
+      "description": "Placeholder placeholder.",
       "imageUrl": "/assets/placeimg_500_300_arch10.jpg",
       "contractTypeId": 2,
       "contractSignedOn": "2015-01-21T07:03:49.836Z",
-      "budget": 74221,
+      "budget": 12345,
       "isActive": false
     },
     {
@@ -732,7 +732,7 @@
     },
     {
       "id": 74,
-      "name": "Armstrong, Crona and Ziemann",
+      "name": "Armstronna and Ziemann",
       "description": "Switchable bifurcated task-force. Hic sed at et id et et qui quis dolores.",
       "imageUrl": "/assets/placeimg_500_300_arch6.jpg",
       "contractTypeId": 2,
@@ -762,12 +762,12 @@
     },
     {
       "id": 77,
-      "name": "An edited and saved name",
+      "name": "The boon's new house",
       "description": "Ergonomic mission-critical knowledge user. Consequatur pariatur eos molestiae qui aut dolorem laudantium nesciunt doloribus.",
       "imageUrl": "/assets/placeimg_500_300_arch6.jpg",
       "contractTypeId": 6,
       "contractSignedOn": "2018-08-16T18:49:06.477Z",
-      "budget": 98123,
+      "budget": 20,
       "isActive": true
     },
     {
@@ -942,7 +942,7 @@
     },
     {
       "id": 95,
-      "name": "Armstrong - Hands",
+      "name": "Armstrong - Hands an feet",
       "description": "Persistent 3rd generation capability. Sint omnis asperiores voluptas sapiente delectus blanditiis earum ut voluptatem.",
       "imageUrl": "/assets/placeimg_500_300_arch6.jpg",
       "contractTypeId": 2,

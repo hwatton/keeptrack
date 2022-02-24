@@ -23,7 +23,9 @@ function ProjectForm({
 const handleSubmit = (event: SyntheticEvent) =>{
     event.preventDefault();
 
-    if (!isValid()) { return}
+    if (!isValid()) { 
+      console.log("not valid")
+      return}
     onSave(project)
     
 
