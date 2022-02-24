@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 
 interface ProjectCardProps{
     project: Project;
-    onEdit: (prokect :Project) => void;
+    onEdit: (project :Project) => void;
 }
 
 function minifyCharacters(string: string, characters :number) {
